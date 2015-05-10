@@ -20,6 +20,7 @@
 	
 	
 	<s:String x:Key="/Default/CodeInspection/TestFileAnalysis/ShortcutToSwitchBetweenFiles/@EntryValue">Global::Ctrl+Shift+T</s:String>
+	<s:String x:Key="/Default/CodeInspection/TestFileAnalysis/TestClassSuffix/@EntryValue">Tests,FT,IT,LT</s:String>
 	<s:String x:Key="/Default/CodeInspection/TestFileAnalysis/TestCopProjectStrategy/@EntryValue">TestProjectHasSameNamespaceAsCodeProject</s:String>
 	
 	
