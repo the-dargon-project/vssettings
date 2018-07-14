@@ -4048,8 +4048,8 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="outlining.collapsehintadornment">
-        <Background Type="CT_RAW" Source="FF232323" />
-        <Foreground Type="CT_RAW" Source="FFD7DDE8" />
+        <Background Type="CT_RAW" Source="FF2D373A" />
+        <Foreground Type="CT_RAW" Source="FF3E4E51" />
       </Color>
       <Color Name="outlining.square">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -5026,19 +5026,19 @@
       </Color>
       <Color Name="ReSharper C++ Class Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF678CB1" />
       </Color>
       <Color Name="ReSharper C++ Struct Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF678CB1" />
       </Color>
       <Color Name="ReSharper C++ Enum Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF678CB1" />
       </Color>
       <Color Name="ReSharper C++ Union Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF678CB1" />
       </Color>
       <Color Name="ReSharper C++ Struct Field Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5054,7 +5054,7 @@
       </Color>
       <Color Name="ReSharper C++ Typedef Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF678CB1" />
       </Color>
       <Color Name="ReSharper C++ Global Function Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5062,7 +5062,7 @@
       </Color>
       <Color Name="ReSharper C++ Overloaded Operator Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF678CB1" />
       </Color>
       <Color Name="ReSharper C++ Template Parameter Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5434,7 +5434,7 @@
       </Color>
       <Color Name="Type">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF678CB1" />
       </Color>
       <Color Name="C/C++ User Keywords">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -5509,8 +5509,8 @@
         <Foreground Type="CT_RAW" Source="FF424042" />
       </Color>
       <Color Name="outlining.collapsehintadornment">
-        <Background Type="CT_RAW" Source="FF232323" />
-        <Foreground Type="CT_RAW" Source="FFD7DDE8" />
+        <Background Type="CT_RAW" Source="FF2D373A" />
+        <Foreground Type="CT_RAW" Source="FF3E4E51" />
       </Color>
       <Color Name="outlining.square">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -5590,15 +5590,15 @@
       </Color>
       <Color Name="CppTypeSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF678CB1" />
       </Color>
       <Color Name="CppRefTypeSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF678CB1" />
       </Color>
       <Color Name="CppValueTypeSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF678CB1" />
       </Color>
       <Color Name="CppFunctionSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="001E1E1E" />
@@ -5630,11 +5630,11 @@
       </Color>
       <Color Name="CppClassTemplateSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF678CB1" />
       </Color>
       <Color Name="CppGenericTypeSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF678CB1" />
       </Color>
       <Color Name="CppFunctionTemplateSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -5866,19 +5866,19 @@
       </Color>
       <Color Name="module name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF678CB1" />
       </Color>
       <Color Name="class name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF678CB1" />
       </Color>
       <Color Name="delegate name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF678CB1" />
       </Color>
       <Color Name="struct name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF678CB1" />
       </Color>
       <Color Name="string - verbatim">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
