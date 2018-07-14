@@ -5150,7 +5150,7 @@
       </Color>
       <Color Name="ReSharper IL Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="ReSharper IL Comment">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5206,7 +5206,7 @@
       </Color>
       <Color Name="ReSharper HTML Fallback Element Name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="ReSharper HTML Fallback Tag Delimiter">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5222,7 +5222,7 @@
       </Color>
       <Color Name="ReSharper Injected Language Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="ReSharper Injected Language String">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5326,7 +5326,7 @@
       </Color>
       <Color Name="ReSharper Todo Item Hyperlink">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="ReSharper ASP.NET RunAt attribute">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5430,7 +5430,7 @@
       </Color>
       <Color Name="Markup Node">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="Type">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -5438,7 +5438,7 @@
       </Color>
       <Color Name="C/C++ User Keywords">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="CodeReview.SelectedComment.AnchorPoint">
         <Background Type="CT_RAW" Source="FF0B618C" />
@@ -5518,11 +5518,11 @@
       </Color>
       <Color Name="urlformat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="NavigableSymbolFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="Track reverted changes">
         <Background Type="CT_RAW" Source="FF5F95FA" />
@@ -5670,7 +5670,7 @@
       </Color>
       <Color Name="CppNewDeleteSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="CppSuggestedActionFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5678,7 +5678,7 @@
       </Color>
       <Color Name="CSS Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="CSS Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -5714,7 +5714,7 @@
       </Color>
       <Color Name="HTML Element Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="HTML Entity">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -5966,7 +5966,7 @@
       </Color>
       <Color Name="xml literal - name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="xml literal - processing instruction">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -6590,7 +6590,7 @@
       </Color>
       <Color Name="urlformat">
         <Background Type="CT_RAW" Source="FF22282A" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="OutputHeading">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7802,7 +7802,7 @@
     <Category Name="Text Editor Language Service Items" GUID="{e0187991-b458-4f7e-8ca9-42c9a573b56c}">
       <Color Name="Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7886,7 +7886,7 @@
       </Color>
       <Color Name="XAML Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="XAML Delimiter">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7914,7 +7914,7 @@
       </Color>
       <Color Name="XAML Attribute Value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="XAML Attribute Quotes">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7938,7 +7938,7 @@
       </Color>
       <Color Name="XML Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="XML Delimiter">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7946,7 +7946,7 @@
       </Color>
       <Color Name="XML Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="XML Attribute">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7966,7 +7966,7 @@
       </Color>
       <Color Name="XSLT Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="Memory Data">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8882,7 +8882,7 @@
       </Color>
       <Color Name="Console Input Text">
         <Background Type="CT_RAW" Source="FF242B2D" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF93C763" />
       </Color>
       <Color Name="Console Output Text">
         <Background Type="CT_RAW" Source="FF242B2D" />
