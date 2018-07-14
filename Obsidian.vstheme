@@ -1252,7 +1252,7 @@
       </Color>
       <Color Name="ReSharper C++ Enum Enumerator Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB8D7A3" />
+        <Foreground Type="CT_RAW" Source="FFA082BD" />
       </Color>
       <Color Name="ReSharper C++ Global Variable Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1344,7 +1344,7 @@
       </Color>
       <Color Name="ReSharper IL Constant Literal">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB8D7A3" />
+        <Foreground Type="CT_RAW" Source="FFA082BD" />
       </Color>
       <Color Name="ReSharper IL String Literal">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1756,7 +1756,7 @@
       </Color>
       <Color Name="CppEnumSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB8D7A3" />
+        <Foreground Type="CT_RAW" Source="FFA082BD" />
       </Color>
       <Color Name="CppGlobalVariableSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -2036,15 +2036,15 @@
       </Color>
       <Color Name="interface name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB8D7A3" />
+        <Foreground Type="CT_RAW" Source="FFA082BD" />
       </Color>
       <Color Name="type parameter name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB8D7A3" />
+        <Foreground Type="CT_RAW" Source="FFA082BD" />
       </Color>
       <Color Name="enum name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB8D7A3" />
+        <Foreground Type="CT_RAW" Source="FFA082BD" />
       </Color>
       <Color Name="module name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
