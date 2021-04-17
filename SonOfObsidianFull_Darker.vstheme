@@ -3226,7 +3226,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Dynamic Program Analysis Highlighter (Issue frame)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF670900" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="FSharp.DisposableType">
